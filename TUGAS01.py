@@ -1,0 +1,11 @@
+A = 30
+B = 20
+C = 5
+D = A + B + C
+E = A - B - C
+F = A * B * C
+G = A // B // C
+print ("%d + %d + %d = " % (A, B, C),D)
+print ("%d - %d - %d = " % (A, B, C),E)
+print ("%d * %d * %d = " % (A, B, C),F)
+print ("%d // %d // %d = " % (A, B, C),G)
